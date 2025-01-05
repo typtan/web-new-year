@@ -1,0 +1,110 @@
+.start {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    font-style: italic;
+}
+.body {
+    background-color: rgb(245, 179, 201);
+}
+.go {
+    font-size: 30px;
+    font-style: italic;
+    margin: 10px;
+}
+.lada {
+    font-size: 300%;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+
+}
+
+.picla {
+    width: 50%;
+    border-radius: 10px;
+}
+
+.ty {
+    font-size: 300%;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+}
+
+.picty {
+    width: 50%;
+    border-radius: 10px;
+}
+
+.phing {
+    font-size: 300%;
+    background-color: rgb(245, 179, 201);
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+}
+
+.picph {
+    width: 50%;
+    border-radius: 10px;
+}
+
+
+.muay {
+    font-size: 300%;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+}
+.mu {
+    text-decoration: none;
+    color: black;
+}
+.picmu {
+    width: 50%;
+    border-radius: 10px;
+}
+
+
+.few {
+    font-size: 300%;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+}
+
+.picfew {
+    width: 50%;
+    border-radius: 10px;
+}
+
+
+.indy {
+    font-size: 300%;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 30px;
+    font-style: italic;
+}
+
+.picin {
+    width: 50%;
+    border-radius: 10px;
+}
